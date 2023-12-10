@@ -1,0 +1,3 @@
+#+title: Awesome config
+
+This Awesome config is set up for a laptop with a 4k monitor attached most of the time.  It has some commands and bindings to make it convenient to view two tags at a time for the most common tags I use.  It uses [[https://github.com/lcpz/lain][lain]] and a volume manager I plan to get rid of.  Work in progress.
